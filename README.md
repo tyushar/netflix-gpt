@@ -12,6 +12,8 @@
 - Create Signup user Account in Firebase
 - Implement Sign In user Api
 - Created Redux Store with UserSlice and appStore
+- Implemented Sign Out
+- Movies Fetch from TMDB API
 
 # Features
 
