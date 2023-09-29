@@ -13,7 +13,8 @@
 - Implement Sign In user Api
 - Created Redux Store with UserSlice and appStore
 - Implemented Sign Out
-- Movies Fetch from TMDB API
+- Bug Fixes if user not login redirect user to login page
+- unsubscribe to onAuthstateChanged callback
 
 # Features
 
