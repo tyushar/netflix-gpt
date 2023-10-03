@@ -15,6 +15,8 @@
 - Implemented Sign Out
 - Bug Fixes if user not login redirect user to login page
 - unsubscribe to onAuthstateChanged callback
+- Fetched data from TMDB API using Async and await
+- Created MovieSlice for NOwplayingmovies API to store JSOn Data
 
 # Features
 
