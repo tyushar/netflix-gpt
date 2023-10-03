@@ -50,7 +50,7 @@ const Header = () => {
             src="https://occ-0-3350-3646.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABeeZ_lXhCLhlNGwSD-pFlypYzOc7vo95M2zeHIewNZBwonSs8UquM8VnSASKYr_Vru36vii9Q4D02tOlLAa6Sy0Oi0eDGLs.png?r=59d"
           />
 
-          <button onClick={handleSignOut} className="font-bold">
+          <button onClick={handleSignOut} className=" font-bold text-white">
             Sign Out
           </button>
         </div>
