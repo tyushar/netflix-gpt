@@ -17,10 +17,10 @@ export const VideoBackground = () => {
     getMovieVideos();
   }, []);
   return (
-    <div>
+    <div className="w-screen scrollbar-hide overflow-hidden">
       <iframe
-        className=" w-screen aspect-video "
-        src="https://www.youtube.com/embed/LdOM0x0XDMo?si=C-pqwNIV7bIuRvyD + &autoplay=1&mute=1&loop=true"
+        className=" w-screen aspect-video scrollbar-hide "
+        src="https://www.youtube.com/embed/GgKmhDaVo48?si=nxGWpu4yEvrCHBc2 + &autoplay=1&mute=1&loop=true"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       ></iframe>
